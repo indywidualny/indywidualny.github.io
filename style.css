@@ -12,7 +12,7 @@ body {
 
 p {
   text-align: center;
-  padding: 10pt;
+  padding-top: 10pt;
   line-height: 1.3em;
 }
 
@@ -23,4 +23,9 @@ a {
 pre {
   font-family: Monaco, Courier, monospace;
   font-size: 0.8em;
+}
+
+img.github {
+  width: 17pt;
+  height: 17pt;
 }
