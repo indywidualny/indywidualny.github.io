@@ -1,0 +1,21 @@
+body {
+  background: #53868b;
+  color: white;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  resize: both;
+  overflow: auto;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+  padding: 10pt;
+  line-height: 1.3em;
+}
+
+a {
+  color: white;
+}
